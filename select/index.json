@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "umbrella",
   "base_artist": "Mrs. GREEN APPLE",
-  "createdAt": "2025-12-01T08:36:59.703987Z",
+  "createdAt": "2026-02-27T17:03:27.612896Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -151,42 +151,10 @@
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
-      "title": "Umbrella",
-      "artist": "YUI",
-      "has_synced": false,
-      "path": "select/pl_01_Umbrella_YUI.txt"
-    },
-    {
-      "id": "petitlyrics_2",
-      "source": "petitlyrics",
       "title": "umbrella",
-      "artist": "YUI",
+      "artist": "Mrs. GREEN APPLE",
       "has_synced": false,
-      "path": "select/pl_02_umbrella_YUI.txt"
-    },
-    {
-      "id": "petitlyrics_3",
-      "source": "petitlyrics",
-      "title": "Umbrella feat. JAY-Z",
-      "artist": "YUI",
-      "has_synced": false,
-      "path": "select/pl_03_Umbrella_feat._JAY-Z_YUI.txt"
-    },
-    {
-      "id": "petitlyrics_4",
-      "source": "petitlyrics",
-      "title": "umbrella.",
-      "artist": "YUI",
-      "has_synced": false,
-      "path": "select/pl_04_umbrella._YUI.txt"
-    },
-    {
-      "id": "petitlyrics_5",
-      "source": "petitlyrics",
-      "title": "umbrella",
-      "artist": "YUI",
-      "has_synced": false,
-      "path": "select/pl_05_umbrella_YUI.txt"
+      "path": "select/pl_01_umbrella_Mrs._GREEN_APPLE.txt"
     }
   ]
 }
