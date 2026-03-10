@@ -1,4 +1,4 @@
-# Mrs. GREEN APPLE – umbrella
+# Mrs. GREEN APPLE – Umbrella
 
 > **歌詞登録ステータス：プレーン歌詞のみ**
 
